@@ -1,0 +1,62 @@
+nav {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 60px;
+    display: inline-block;
+    border-bottom:lightgrey 5px solid;
+}
+
+button {
+    background-color: rgb(37, 128, 231);
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 100px 50px 75px 10px;
+    padding: 10px 10px 10px 10px;
+    float: right;
+}
+
+button {
+    background-color: rgb(37, 128, 231);
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 10px 50px 75px 10px;
+    padding: 10px 10px 10px 10px;
+    float: right;
+}
+body {
+    background-color: lightblue;
+}
+
+.signup fieldset { 
+        background-color: white;
+        border-width: 3px;
+        border-radius: 5px;
+        border-color: lightgray 5px solid;
+        margin: 300px 1000px 300px 800px;
+        display: block;
+        
+}
+
+.signup fieldset input {
+    display: block;
+}
+
+.signup fieldset button {
+    background-color: rgb(37, 128, 231);
+    color: white;
+    border-radius: 2px;
+    width: 83%;
+    height: 22px;
+    font-size: 10px;
+    padding-top: 4px;
+    margin: 10px 35px 10px 10px;
+}
+
+.signup fieldset img {
+    margin: 10px 0px 10px 0px;
+}
